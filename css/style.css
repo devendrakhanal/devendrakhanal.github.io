@@ -1,0 +1,134 @@
+.second_section_paragaph_card_body{
+    padding-left:49px;
+    text-align: justify;
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    padding-bottom: 0!important;
+}
+
+
+.number {
+    font-weight: bold;
+    font-size: 40px;
+    font-family: 'Playfair Display';
+
+}
+
+
+.about_header_heading{
+    margin-top: 20px;
+    font-family: 'Roboto';
+}
+
+.about_header_paragaph {
+    margin-right: 12px;
+    margin-bottom:2rem;
+
+}
+
+.card-body {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.fa-3x {
+        color: #4FC0D0;
+        padding-right: 10px;
+        opacity: 0.5;
+}
+
+
+.custom_height {
+    min-height: 350!important;
+    height: 100% !important;
+    object-fit: cover !important;
+    border-radius: 5px;
+  }
+  
+
+#thirdsection {
+    background-color: #f9f9f9;
+}
+
+.progress_name{
+    margin-bottom: 1px;
+}
+.each_progress {
+    padding-bottom: 10px;
+}
+.thirdsection_p_gf{
+    text-align: justify;
+    margin-bottom: 32px !important;
+    padding-right: 16px;
+}
+
+h2 {
+    padding-top: 15px !important;
+    margin-bottom: 0 !important;
+}
+hr {
+    margin-top: 0 !important;
+    width: 7%;
+    height: 8px;
+}
+hr {
+    margin-top: 0 !important;
+    width:5%;
+    border: none;
+    height: 4px;
+    background-color: #4FC0D0;  /* Modern Browsers */
+  }
+
+#fifthsection{
+    background-color: #f9f9f9;
+}
+
+.carousel-item{
+    color: rgb(213, 118, 118);
+}
+
+.carousel-image {
+    max-width: 8% !important;
+    border-radius: 12px;
+  }
+
+.carousel-h4 {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.carousel-p {
+    margin-bottom: 2rem;
+}
+button {
+    background-color: gray !important;
+}
+ /* Using float */
+.footer-p {
+    font-size: 12px;
+}
+.fa-2x {
+  padding-right: 1rem !important;
+  padding-top: 3px !important;
+}
+
+.service-card{
+    transition: all 0.2s ease;
+    cursor: pointer;
+    
+
+  }
+    
+
+
+.service-card:hover{
+    box-shadow: 5px 6px 6px 2px #b8d2ed;
+    transform: scale(1.1);
+}
+
+  @media (max-width: 576px) {
+    .custom-height {
+      height: auto !important;
+      max-height:  100% !important;
+    }
+  }
