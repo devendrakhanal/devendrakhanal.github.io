@@ -88,6 +88,7 @@ hr {
 }
 
 .carousel-image {
+    height: 120px !important;
     max-width: 8% !important;
     border-radius: 12px;
   }
